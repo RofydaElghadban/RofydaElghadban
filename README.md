@@ -29,7 +29,7 @@
 <!-- -->
 <p align="center">                        
 <a href="https://codeforces.com/profile/Rofyda_Elghadban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Rofyda Elghadban" height="80" width="60" />    </a>
- <a href="http://www.linkedin.com/in/rofydaelghadban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/rofydaelghadban" height="80" width="60" /></a>        <a href="https://www.facebook.com/profile.php?id=100009102880404&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rofyda Elghadban" height="80" width="60" /></a>
+ <a href="http://www.linkedin.com/in/rofydaelghadban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/rofydaelghadban" height="80" width="60" /></a>        <a href="https://www.facebook.com/RofydaElghadban?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rofyda Elghadban" height="80" width="60" /></a>
 
 </p>
 <hr>
