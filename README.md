@@ -18,13 +18,13 @@
 
 
 
-<hr>
+
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RofydaElghadban&label=Profile%20views&color=0e75b6&style=flat" alt="RofydaElghadban" /> </p>
 
 
+## 👉 How to reach me 
 
-<!-- how to reach me -->
-## <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
 
 <!-- -->
 <p align="center">                        
@@ -32,7 +32,7 @@
  <a href="http://www.linkedin.com/in/rofydaelghadban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/rofydaelghadban" height="80" width="60" /></a>        <a href="https://www.facebook.com/RofydaElghadban?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rofyda Elghadban" height="80" width="60" /></a>
 
 </p>
-<hr>
+
 
 
 ## 👉 Programming languages
@@ -47,7 +47,13 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RofydaElghadban&theme=algolia" alt="RofydaElghadban" /></p>
 
+## 💻 GitHub Profile Stats
+ 
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RofydaElghadban's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RofydaElghadban&show_icons=true&count_private=true&theme=algolia" height="192px"/></a></p>
 
 
 
