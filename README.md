@@ -1,18 +1,28 @@
 
 	
-<h1 align="center">Hi , I'm Rofyda Elghadban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	
-	
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BK60&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;"></a>
+<!--<h1 align="center">Hi , I'm Rofyda Elghadban <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
+<p align="center">
+  <img src="name.png" alt="Rofyda Elghadban" width="700" height="300" />
 </p>
 
-- 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
-- 🌱 I’m currently learning **Computer Science**
+<!-- <h1 align="center">,<a href="https://img.shields.io/badge/Rofyda%20Elghadban-%23ff4d6d?style=for-the-badge"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a></h1> -->
+	
+	
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=009aca&size=35&center=true&vCenter=true&width=1000&height=100&lines=Software+Engineer;Competitive+Programmer;Coach+@Coach+Academy;ECPC+Finalist&duration=3000&pause=700"></a>
+</p>
 
-- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode.**
+<h2> 👩‍💻 About me </h2>
 
-- 📫 How to reach me **rofydaelghadban@gmail.com**
+- 🎓 ```Fresh Graduate``` from [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) , [Suez Canal University](http://suez.edu.eg/ar/) ```Computer Science Department```.
+
+- 👩‍🏫 Currently working as a ```Coach``` @Coach Academy, guiding and supporting learners on their journey.
+
+- 🚀 ```ECPC Finalist``` – [Egyptian Collegiate Programming Contest](https://www.facebook.com/EgyptCPC).
+
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
+  
+- 📝 This is [MY RESUME](https://drive.google.com/file/d/1cW9vGeXznG6uIgoBzp62lTckx9RBiMgA/view?usp=sharing).
 
 
 
